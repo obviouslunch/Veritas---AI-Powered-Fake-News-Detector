@@ -121,7 +121,7 @@ VERITAS includes three main sections:
 
 ## Live Demo
 
-**Application:** Coming soon
+**Application:** https://veritas---ai-powered-fake-news-detector.streamlit.app/
 
 ## Limitations
 
